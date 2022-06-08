@@ -1,0 +1,13 @@
+Job1:
+  interval: 0
+  url: "www.0.com"
+  run_times: 1
+  time_out: 5
+Job2:
+  interval: 12
+  url: "www.12.com"
+  time_out: 10
+Job3:
+  interval: 5
+  url: "www.5.com"
+  time_out: 15
